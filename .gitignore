@@ -1,0 +1,15 @@
+# PyInstaller build artifacts
+desktop_widget/build/
+desktop_widget/dist/ClaudeWidget.exe
+
+# Widget position config (local state)
+desktop_widget/dist/widget_config.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
